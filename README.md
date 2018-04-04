@@ -1,4 +1,4 @@
-# minimalist-understrap-childp-theme
+# minimalist-understrap-child-theme
 A very minimalist child theme for UnderStrap. Just the bare necessities to get it working and a file structure.
 
 You can download UnderStrap through github or their website. Though it's not required. WP will download the parent theme automatically when you upload this theme. 
